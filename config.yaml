@@ -1,0 +1,19 @@
+# Assembly
+assembly: ""
+
+# Hi-C read files
+hiC_read1: ""
+hiC_read2: ""
+
+# Dependencies (path to the git cloned directory which will be added to path)
+juicer_tools_jar: "##TODO:changeToAbsolutePathbin/juicer_tools.1.9.9_jcuda.0.8.jar"
+
+# Parameters
+mapq_filter: 10
+
+# Threads and Memory (e.g. 800m 20g)
+threads: 40
+mem: 150G
+
+# Output directory
+outdir: ""

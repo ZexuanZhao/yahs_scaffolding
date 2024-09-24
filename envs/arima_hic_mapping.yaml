@@ -1,0 +1,9 @@
+name: arima_hic_mapping
+channels:
+ - bioconda
+ - conda-forge
+dependencies:
+  - fastp
+  - bwa
+  - samtools
+  - picard
